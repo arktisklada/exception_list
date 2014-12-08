@@ -1,6 +1,7 @@
 # ExceptionList
 
-TODO: Write a gem description
+Generates an array of all exception classes for the current Ruby environment.
+Includes a class method as well as a rake task to output the list.
 
 ## Installation
 
@@ -18,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ExceptionList.all returns all class names in an array
+rake exceptions:all
 
 ## Contributing
 
