@@ -24,8 +24,8 @@ rake exceptions:all
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/exception_list/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
+1. Fork it ( https://github.com/arktisklada/exception_list/fork )
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
 5. Create a new Pull Request
